@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.windows": {
+    "OMP_NUM_THREADS": "1"
+  },
+  "python.envFile": "${workspaceFolder}/.env"
+}
